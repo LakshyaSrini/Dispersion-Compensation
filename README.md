@@ -76,7 +76,8 @@ The main physical components of this layout are:
 
 ## Tabulation
 
-<img width="1012" height="1477" alt="WhatsApp Image 2026-05-11 at 11 12 13 AM" src="https://github.com/user-attachments/assets/28bdd0ff-d22b-4f9f-8bb3-10f909ac5ef8" />
+<img width="858" height="1318" alt="WhatsApp Image 2026-05-18 at 7 10 55 PM" src="https://github.com/user-attachments/assets/17f155bc-cd67-4998-b22e-258b028d8624" />
+
 
 <img width="1918" height="1018" alt="Screenshot 2026-05-11 110156" src="https://github.com/user-attachments/assets/64ebb787-83b0-49bd-a767-04f3d379d77e" />
 
